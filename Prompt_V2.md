@@ -1,5 +1,5 @@
 This prompt should be executed by the PAI_Codex.
-Can this be turned into skills?
+Can this be turned into skills? Can each step or substep be turned into a skill?
 
 Step 1
 Spin up experimental multi-agent work process to achieve the following goals for selected funds or fund managers
@@ -28,3 +28,6 @@ Dive into specific industies
 
 Step 5
 What are new IPO's and who's buying them
+
+Step 6
+Display the outcomes of the research in a webpage and put the results into a database
