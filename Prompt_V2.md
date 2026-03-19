@@ -1,5 +1,7 @@
-This prompt should be executed by the PAI_Codex.
-Can this be turned into skills? Can each step or substep be turned into a skill?
+# General:
+- This prompt should be executed by the PAI_Codex.
+- Can this be turned into skills? 
+- Can each step or substep be turned into a skill?
 
 # Strategy:
 
