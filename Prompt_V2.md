@@ -5,6 +5,11 @@ Step 1
 Spin up experimental multi-agent work process to achieve the following goals for selected funds or fund managers
 - What the funds are buying or selling
 - What the fund managers are buying or selling
+- FORM N-CSR - financial statement of a fund
+- FORM 497k - filing code for a mutual fund or ETF's Summary Prospectus
+- FORM 13F - what the funds are buying or selling - Institutional Investment Managers
+- FORM N-PORT - what the Registered Investment Companies - Mutual Funds and ETFs are buying
+- Form 4 - Insider buying
 
 Step 2
 From the selected companies, find out the following infromation
